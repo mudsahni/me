@@ -1,0 +1,339 @@
+{
+  "header": {
+    "name": "Mudit Sahni",
+    "profile": "Software Engineer",
+    "contact": {
+      "linkedIn": "mudit-sahni",
+      "github": "mudsahni",
+      "email": "muditsahni@msn.com",
+      "phone": "+91-(0)-9971847430",
+      "location": "New Delhi, India"
+    }
+  },
+  "summary": {
+    "title": "Summary",
+    "content": "<p>I've had the opportunity to enjoy diverse roles spanning event-driven backend engineering, engineering big data pipelines, using machine learning to solve research challenges, and developing full stack customer facing products. At <b>Expedia</b>, I’ve architected data capture SDKs and pipelines managing terabytes of daily data and over 30,000 requests per second, enabling data-driven decisions across the company. I also helped develop a multi-tenant platform that expanded revenue streams by white-labeling Expedia's offerings for a broad audience.</p><br><p>At <b>Gartner</b>, my overhaul of legacy products into engaging web platforms tripled revenue and improved membership retention by 20% (across those products). My dedication to process optimization led to the implementation of advanced automations, saving hundreds of developer hours and markedly increasing operational efficiency and profitability.</p>",
+    "keywords": [
+      "Event Driven Architecture",
+      "Big Data",
+      "Microservices",
+      "Backend Engineering",
+      "Distributed Compute",
+      "Data Engineering",
+      "Machine Learning",
+      "Deep Learning",
+      "A/B Testing",
+      "Platform Development",
+      "Software Architecture",
+      "Full Stack Web Development",
+      "Project Planning and Management"
+    ]
+  },
+  "learnings": {
+    "Education": [
+      {
+        "subtitle": "Amity University, India",
+        "date": "2009–2013",
+        "title": "Bachelor of Technology, Information Technology"
+      },
+      {
+        "subtitle": "Modern School, Barakhamba Road, New Delhi, India",
+        "date": "1996–2009",
+        "title": "Physics, Chemistry, Mathematics"
+      }
+    ],
+    "Projects": [
+      {
+        "title": "Sorting Visualization",
+        "link": "https://mudsahni.github.io/SortingVisualizer/",
+        "date": "August 2016"
+      },
+      {
+        "title": "Autocomplete Backend",
+        "link": "https://github.com/mudsahni/autocomplete-ts",
+        "date": "January 2021"
+      },
+      {
+        "title": "Workflow Service",
+        "date": "June 2021-September 2021"
+      },
+      {
+        "title": "High Frequency Event Stitching Pipeline",
+        "date": "August 2023-March 2024"
+      }
+    ],
+    "Certifications": [
+      {
+        "title": "AI for Medical Diagnosis",
+        "link": "https://www.coursera.org/account/accomplishments/verify/CPTCRTD8Z86V",
+        "date": "June 2020"
+      },
+      {
+        "title": "Introduction to TensorFlow",
+        "link": "https://www.coursera.org/account/accomplishments/verify/VAJDV6UKRY92",
+        "date": "December 2019"
+      },
+      {
+        "title": "Deep Learning Nanodegree",
+        "link": "https://www.udacity.com/certificate/M9G9K69J",
+        "date": "January 2019"
+      },
+      {
+        "title": "Deep Learning Specialization",
+        "link": "https://www.coursera.org/account/accomplishments/specialization/GGBBEPHV7S64",
+        "date": "September 2018"
+      },
+      {
+        "title": "Machine Learning",
+        "link": "https://www.coursera.org/account/accomplishments/verify/3YQMLACKFMLB",
+        "subtitle": "Stanford University",
+        "date": "January 2018"
+      }
+    ],
+    "Languages": [
+      {
+        "title": "English",
+        "subtitle": "Native"
+      },
+      {
+        "title": "Hindi",
+        "subtitle": "Native"
+      },
+      {
+        "title": "German",
+        "subtitle": "Foundational"
+      }
+    ]
+  },
+  "misc": {
+    "Programming Languages": [
+      "Kotlin",
+      "Python",
+      "Typescript",
+      "Java",
+      "Scala",
+      "Javascript",
+      "Go",
+      "C",
+      "R"
+    ],
+    "Frameworks": [
+      "Spring Boot",
+      "Flask",
+      "Express",
+      "Node.js",
+      "Ktor",
+      "Gin",
+      "React",
+      "Next.js"
+    ],
+    "Data": [
+      "SQL",
+      "NoSQL",
+      "Apache Spark",
+      "Apache Airflow",
+      "Apache Flink",
+      "Apache Kafka",
+      "Apache Hadoop",
+      "Apache Hive",
+      "Presto",
+      "Pandas"
+    ],
+    "Cloud": [
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "Jenkins",
+      "Github Actions",
+      "Spinnaker"
+    ],
+    "Machine Learning": [
+      "Tensorflow",
+      "Scikit-learn",
+      "Keras",
+      "PyTorch",
+      "Numpy"
+    ],
+    "Interests": [
+      "Physics",
+      "Astronomy",
+      "Biology",
+      "Technology",
+      "History",
+      "Languages",
+      "Reading",
+      "Writing",
+      "Travel"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Expedia",
+      "link": "https://www.expedia.com/",
+      "description": "Paytm is India's largest mobile commerce platform.",
+      "team": [
+        {
+          "name": "Data Capture, Data Platform and Products",
+          "description": "I develop and manage SDKs and infrastructure for capturing high frequency user interactions and events across web products, and to transform large datasets of raw events into actionable insights for data-driven decision-making, personalization, and improved customer experience.",
+          "positions": [
+            {
+              "title": "Senior Software Development Engineer",
+              "active": true,
+              "duration": "Mar 2023–"
+            }
+          ],
+          "responsibilities": [
+            {
+              "description": "Leading the creation of a multi-tenant Apache Flink-based data pipeline, designed to process and stitch over 30,000 streaming events per second in near real-time, based on configurations from data producers.",
+              "keywords": ["Apache Flink", "Apache Kafka", "Data Pipeline", "Real-time Processing", "Kotlin", "Kubernetes"]
+            },
+            {
+              "description": "Designed a data visualization tool that ingests real-time event streams from multiple sources, filtering them per UI input custom configurations to provide immediate access to live data insights.",
+              "keywords": ["Apache Kafka", "Kotlin", "Typescript", "React", "Coroutines"]
+            },
+            {
+              "description": "Designed a schema integration pipeline that automates validation and dissemination of schema changes across microservices in the data capture platform, streamlining updates and saving 30 developer hours weekly.",
+                "keywords": ["Python", "Github Actions", "Spinnaker", "Jenkins", "Datadog"]
+            },
+            {
+              "description": "Developing a platform that evaluates and scores data producers, enhancing data quality by reducing schema-based errors by ~22% and cutting resolution times by ~10%. This improvement streamlined the alignment between consumers and producers, boosting service efficiency and customer satisfaction.",
+              "keywords": ["Kotlin", "Apache Spark", "Apache Kafka", "Datadog", "Typescript", "React", "Kubernetes"]
+            }
+          ]
+        },
+        {
+          "name": "Platform Solutions",
+          "description": "I helped architect the control plane for a scalable, multi-tenant platform, designing and engineering customer onboarding, product selection, and automated billing, tailored for diverse internal and external customer needs.",
+          "positions": [
+            {
+              "title": "Software Development Engineer III",
+              "active": false,
+              "duration": "Aug 2021–Mar 2023"
+            }
+          ],
+          "responsibilities": [
+            {
+              "description": "Contributed to the design and development of a sophisticated, multi-tenant, event-based billing system, featuring event aggregation, precise bill calculation, and extensive reporting capabilities.",
+              "keywords": ["Kotlin", "Spring Boot", "Apache Kafka", "Apache Spark", "Kubernetes"]
+            },
+            {
+              "description": "Led the creation and management of microservices tailored for multi-tenant environments, focusing on customer registration, onboarding, product selection, and configuration.",
+              "keywords": ["Kotlin", "Spring Boot", "Apache Kafka", "AWS Step Functions", "Microservices", "Distributed Architecture", "Kubernetes"]
+            },
+            {
+              "description": "Enhanced team efficiency and code integrity by leading the integration of CI/CD practices, advancing testing methods, and incorporating performance analytics with tools like DataDog, resulting in streamlined deployments, simplified error diagnosis, and minimized downtimes.",
+              "keywords": ["Jenkins", "Github Actions", "Spinnaker", "Datadog", "Backstage"]
+            },
+            {
+              "description": "Mentored new developers, significantly contributed to team roadmap planning, and acted as one of the primary liaisons between the team and stakeholders, ensuring clear communication and alignment of project goals with stakeholder expectations."
+            }
+          ]
+        },
+        {
+          "name": "Experimentation Platform",
+          "description": "Improved data insights and employee benefits at Expedia Group by creating a high-refresh rate A/B testing analysis platform, streamlining data integration with Adobe Experience Platform, and facilitating travel discounts through an internal website.",
+          "positions": [
+            {
+              "title": "Data Engineer III",
+              "active": false,
+              "duration": "Mar 2021–Aug 2021"
+            },
+            {
+              "title": "SDE I",
+              "active": false,
+              "duration": "Mar 2019–Mar 2021"
+            },
+            {
+              "title": "Associate SDE",
+              "active": false,
+              "duration": "Oct 2017–Mar 2019"
+            }
+
+          ],
+          "responsibilities": [
+            {
+              "description": "Standardized user behaviour and A/B test analysis and empowered product teams across the organization by developing a flexible, customizable, low-code ETL pipeline for secure and consistent transportation of terabytes of daily data to Adobe Experience Platform.",
+              "keywords": ["$award$ Expedia 'My Hero' Award", "Scala", "Apache Spark", "Data Lake", "Adobe Experience Platform", "Kubernetes"]
+            },
+            {
+              "description": "Developed a standardized reporting and visualization platform for over 40,000 A/B tests organization-wide, enhancing the A/B test data refresh rate by more than 40 times—from once daily to over 40 refreshes a day.",
+              "keywords": ["Python", "Postgres", "Typescript", "React"]
+            },
+            {
+              "description": "Facilitated travel discounts and benefits for over 25,000 Expedia Group employees by creating an internal website that streamlines coupon generation, usage, and financial tracking of travel benefits utilization.",
+              "keywords": ["Typescript", "Prisma", "GraphQL", "React", "MongoDb", "Microsoft Azure"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Gartner",
+      "link": "https://www.gartner.com/en",
+      "description": "Paytm is India's largest mobile commerce platform.",
+      "team": [
+        {
+          "name": "Quantitative Research and Analysis",
+          "description": "Boosted revenue threefold by upgrading survey analysis to web-based platforms and sped up survey creation fivefold, while also developing data pipelines for in-depth financial analysis on 300+ organizations for CEB's (now Gartner) \"Stall Points\" research.",
+          "positions": [
+            {
+              "title": "Quantitative Research Specialist",
+              "active": false,
+              "duration": "May 2017–Oct 2017"
+            }
+          ],
+          "responsibilities": [
+            {
+              "description": "Tripled revenue of survey based research products across various research domains by transforming client-facing survey analysis and reporting from basic Excel dashboards to advanced, flexible web-based platforms with enhanced analytical capabilities. Additionally, accelerated survey creation by research teams fivefold through the development of a declarative schema-based survey generation UI.",
+              "keywords": ["$award$ Gartner Innovation of the Year (2017)","Python", "Flask", "Javascript", "React", "R", "Shiny", "MongoDb"]
+            },
+            {
+              "description": "Crafted data collection pipelines and conducted quantitative and qualitative analyses on public financial data and news for 300+ organizations, supporting CEB's (now Gartner) \"Stall Points\" research.",
+              "keywords": ["Python", "MongoDb", "Tensorflow", "Numpy", "Pandas"]
+            }
+          ]
+        },
+        {
+          "name": "Digital Products and Analysis",
+          "description": "Improved research capabilities by automating digital workflows, creating a web analytics platform, and developing sophisticated data collection tools, significantly saving time and improving decision-making.",
+          "positions": [
+            {
+              "title": "Digital Products & Analysis Intern",
+              "active": false,
+              "duration": "Dec 2013–Mar 2014"
+            },
+            {
+              "title": "Digital Products & Analysis Associate",
+              "active": false,
+              "duration": "Mar 2014–Mar 2016"
+            },
+            {
+              "title": "Digital Products & Analysis Specialist",
+              "active": false,
+              "duration": "Mar 2016–Mar 2017"
+            }
+          ],
+          "responsibilities": [
+            {
+              "description": "Cut manual work hours by approximately 500 per month through automations in web development, data standardization, and digital publishing, streamlining the creation and release of digital products.",
+              "keywords": ["Python"]
+            },
+            {
+              "description": "Enhanced the research strategies of product teams across multiple domains by developing an analytics and reporting platform for web consumption data, optimizing decision-making processes.",
+              "keywords": ["Python", "Flask", "Javascript", "React"]
+            },
+            {
+              "description": "Facilitated the research process through the development of web crawlers and tools for data collection, structuring, and standardization.",
+              "keywords": ["Python"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+

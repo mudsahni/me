@@ -1,0 +1,390 @@
+{
+  "header": {
+    "name": "Sameera Singh",
+    "profile": "Talent Management Leader",
+    "contact": {
+      "linkedIn": "singhsameera",
+      "email": "sameerasingh@gmail.com",
+      "phone": "+91-(0)-9818167144",
+      "location": "New Delhi, India"
+    }
+  },
+  "summary": {
+    "title": "Summary",
+    "content": "<p>With a comprehensive <b>20-year tenure</b> in HR, <em>my expertise spans the full gamut—from recruiting and HR business partnering to learning and development, and notably, constructing HR infrastructures from the ground up</em>. I have shaped high-performing cultures across diverse organizational landscapes, <b>including technology, travel, consulting, banking, and fintech</b>. My passion for developing talent has led me to engineer innovative learning and assessment strategies, elevating skills, leadership capabilities, and business acumen across all workforce levels. As a collaborative leader and trusted advisor, I am dedicated to cultivating an environment where talent thrives, and business objectives are seamlessly achieved.</p>",
+    "keywords": [
+      "Strategic HR Leadership",
+      "Talent Management and Development",
+      "Performance Management",
+      "Organizational Design",
+      "Change Management",
+      "Succession Planning",
+      "Business Partnering",
+      "Workforce Planning",
+      "Learning and Development",
+      "Leadership Coaching"
+    ]
+  },
+  "education": [
+    {
+      "school": "Aston Business School, United Kingdom",
+      "duration": "2003–2005",
+      "degree": "M.Sc. Human Resource Management & Business"
+    },
+    {
+      "school": "Faculty of Mgmt. Studies, University of Jammu, India",
+      "duration": "2001–2002",
+      "degree": "P.G. Diploma in Business Management"
+    },
+    {
+      "school": "Hindu College, Delhi University, India",
+      "duration": "1997–2000",
+      "degree": "B.A. Honors, Economics"
+    }
+  ],
+  "certifications": [
+    {
+      "degree": "DiSC",
+      "school": "BYLD Group",
+      "duration": "March 2023"
+    },
+    {
+      "degree": "SHRM – SCP",
+      "school": "SHRM",
+      "duration": "January 2022"
+    },
+    {
+      "degree": "IamRemarkable Facilitator",
+      "school": "IamRemarkable",
+      "duration": "March 2022"
+    },
+    {
+      "degree": "Transactional Analysis 101",
+      "school": "ITAA",
+      "duration": "May 2021"
+    },
+    {
+      "degree": "People Analytics",
+      "school": "Wharton Business School",
+      "duration": "August 2019"
+    },
+    {
+      "degree": "ACC, Leadership Coach Program",
+      "school": "Coach for Life",
+      "duration": "April 2018"
+    },
+    {
+      "degree": "Design Thinking",
+      "school": "KPMG",
+      "duration": "December 2017"
+    },
+    {
+      "degree": "Total Strengths Deployment Inventory",
+      "school": "Personal Strengths Publishing Inc.",
+      "duration": "October 2016"
+    },
+    {
+      "degree": "FIRO-B",
+      "school": "Anahat",
+      "duration": "August 2015"
+    }
+  ],
+  "accomplishments": [
+    {
+      "degree": "India's Top 100 Emerging HR Leaders",
+      "school": "SUMHR",
+      "duration": "April 2019"
+    },
+    {
+      "degree": "HR 40under40",
+      "school": "Jombay",
+      "duration": "February 2018"
+    }
+  ],
+  "volunteering": [
+    {
+      "degree": "Mentor and Jury Member, 40under40 HR Professionals Certification",
+      "school": "Jombay",
+      "duration": "March 2023–July 2023"
+    },
+    {
+      "degree": "Mentor",
+      "school": "Mentor Together",
+      "duration": "July 2023–"
+    },
+    {
+      "degree": "Volunteer",
+      "school": "ENGin",
+      "duration": "December 2023–"
+    }
+  ],
+  "languages": [
+    {
+      "degree": "English",
+      "school": "Native"
+    },
+    {
+      "degree": "Hindi",
+      "school": "Native"
+    },
+    {
+      "degree": "Urdu",
+      "school": "Competent"
+    },
+    {
+      "degree": "German",
+      "school": "Foundational"
+    }
+  ],
+  "interests": [
+    "Travel",
+    "Pottery",
+    "Photography",
+    "Sketching/Painting",
+    "Reading",
+    "History",
+    "Psychology",
+    "Languages"
+  ],
+  "experience": [
+    {
+      "company": "Razorpay",
+      "description": "Paytm is India's largest mobile commerce platform.",
+      "team": [
+        {
+          "name": "Talent and Capability Building",
+          "description": "Strategic advisor to C-suite and business leaders, focusing on people capability development, culture, and talent management. Successfully led talent initiatives across various sectors including business, corporate, engineering, and product, impacting over 2,400 employees.",
+          "positions": [
+            {
+              "title": "Director",
+              "active": false,
+              "duration": "April 2022–May 2023",
+              "location": "Gurgaon, National Capital Region, India"
+            }
+          ],
+          "responsibilities": [
+            {
+              "description": "Established the learning and capability development function, incorporating digital tools and effectiveness metrics, and refined key talent processes such as performance management and succession planning. Spearheaded organization-wide functional academies, peer and social learning, mentorship programs, and compliance trainings, managing a talent budget of $370K."
+            },
+            {
+              "description": "Drove organizational excellence by overseeing employee relations, resolving disputes, discrimination issues, and terminations, with a focus on preventing POSH harassment and discrimination."
+            },
+            {
+              "description": "Fostered a culture of proactive performance management through coaching and collaboration with managers to raise performance standards. Developed a leadership framework and coached leaders to enhance their effectiveness in current and future roles."
+            },
+            {
+              "description": "Directed organizational transformation initiatives to cultivate an inclusive, diverse culture and well-being, achieving higher employee engagement scores. Championed women mentorship, inclusion forums, inclusive work policies, and diversity workshops."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Airbnb",
+      "description": "Paytm is India's largest mobile commerce platform.",
+      "team": [
+        {
+          "name": "Learning and Talent",
+          "description": "Architected transformative HR strategies to enhance talent management, organizational culture, and leadership development, with a focus on digital learning, significantly boosting performance metrics company-wide.",
+          "positions": [
+            {
+              "title": "Head",
+              "active": false,
+              "duration": "February 2020–April 2022",
+              "location": "Gurgaon, National Capital Region, India"
+            }
+          ],
+          "responsibilities": [
+            {
+              "description": "Drove strategic overhauls in talent management, from performance systems to recruiting, and integrated a talent review and competency framework that markedly improved career and succession outcomes.",
+              "keywords": []
+            },
+            {
+              "description": "Engineered the adoption of digital learning, boosting engagement from 38% to 90% through VR simulations, gamification, and speed mentoring. Managed a $300K budget to facilitate high-potential talent development and cross-skilling initiatives.",
+              "keywords": []
+            },
+            {
+              "description": "Led diversity and inclusion efforts in the APAC region, establishing pivotal affinity groups and spearheading Airbnb’s Women Network. Implemented ground-breaking programs for unconscious bias, allyship, and inclusive hiring, fostering a culture of inclusion and equality.",
+              "keywords": []
+            },
+            {
+              "description": "Led global transformation initiatives, harmonizing organizational structure, job leveling, culture, and HR processes, to align with corporate values and goals.",
+              "keywords": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Independent Consultant",
+      "description": "Paytm is India's largest mobile commerce platform.",
+      "team": [
+        {
+          "name": "Independent Practise",
+          "description": "Consulting for small-to-midsize companies to develop, expand, and fortify HR functions, while coaching leaders to maximize their potential.",
+          "positions": [
+            {
+              "title": "Talent Management Consultant and Executive Coach",
+              "active": false,
+              "duration": "2014, 2019–2020",
+              "location": "India"
+            }
+          ],
+          "responsibilities": [
+            {
+              "description": "Served as a leadership and effectiveness coach for high-potential leaders in the Delhi Chief Minister’s Urban Leaders Fellowship during 2019-2020.",
+              "keywords": []
+            },
+            {
+              "description": "In 2014, designed and led development centers for 25 top executives at a manufacturing client, serving as a leadership coach. Also developed a career framework for a biotechnology client, standardizing roles and enhancing role clarity.",
+              "keywords": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Adobe",
+      "description": "Paytm is India's largest mobile commerce platform.",
+      "team": [
+        {
+          "name": "Talent and Capability Building",
+          "description": "As a strategic partner, led the talent vision and strategy for multiple business lines including engineering, consulting, sales, and customer service (3000+ employees), implementing transformative HR strategies that enhanced learning, leadership development, and organizational culture, resulting in significant savings and a 7% increase in engagement scores.",
+          "positions": [
+            {
+              "title": "Senior Talent Development Partner",
+              "active": false,
+              "duration": "August 2016–February 2019",
+              "location": "Noida, National Capital Region, India"
+            }
+          ],
+          "responsibilities": [
+            {
+              "description": "Revitalized learning strategy with digital and social platforms, coaching, and development centers, enhancing leadership effectiveness and performance management, significantly impacting organizational development.",
+              "keywords": []
+            },
+            {
+              "description": "Helped evolve company culture by mentoring leaders in performance management and reinforcing core values, implementing a talent review process that bolstered Engineering talent identification and development.",
+              "keywords": []
+            },
+            {
+              "description": "Executed a leader transformation program, identifying and nurturing next-gen leaders through competency-based blended learning and assessment programs, achieving ~$65,000 in annual learning budget savings.",
+              "keywords": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "CK Birla Group",
+      "description": "Paytm is India's largest mobile commerce platform.",
+      "team": [
+        {
+          "name": "Leadership Development",
+          "description": "Unified leadership frameworks, launched a pioneering development program for emerging leaders, and spearheaded impactful coaching interventions across 9 companies, significantly advancing leadership effectiveness and talent development.",
+          "positions": [
+            {
+              "title": "Senior Manager",
+              "active": false,
+              "duration": "January 2015–July 2016",
+              "location": "New Delhi, India"
+            }
+          ],
+          "responsibilities": [
+            {
+              "description": "Collaborated with HR and group leaders to unify and overhaul the leadership competency framework across subsidiaries, launching a cohesive talent development strategy and initiating a cross-organizational program for 80 high-potential young leaders to bolster the leadership pipeline.",
+              "keywords": []
+            },
+            {
+              "description": "Launched the inaugural group-wide leadership development and succession initiative, featuring stretch assignments, 360 assessments, and coaching for 45 senior leaders, with approximately 15% fast-tracked to higher-level roles.",
+              "keywords": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Gartner",
+      "description": "Paytm is India's largest mobile commerce platform.",
+      "team": [
+        {
+          "name": "Talent Management",
+          "description": "Strategically steered HR to enhance people processes, manager effectiveness, and employee experience, innovating in onboarding, rewards standardization, and post-acquisition integration.",
+          "positions": [
+            {
+              "title": "Associate Director",
+              "active": false,
+              "duration": "September 2012–April 2014",
+              "location": "Gurgaon, National Capital Region, India"
+            }
+          ],
+          "responsibilities": [
+            {
+              "description": "Successfully led an organizational change initiative, integrating and standardizing people processes post-acquisition of two companies, and elevating employee satisfaction scores across all impacted organizations by 23% through strategic interventions and continuous engagement.",
+              "keywords": []
+            },
+            {
+              "description": "Enhanced recruiting and onboarding processes by implementing Behavioral Event Interviews (BEI) and engaging new hires effectively, leading to a 13% rise in new employee satisfaction and over a 10% reduction in new hire attrition.",
+              "keywords": []
+            },
+            {
+              "description": "Overhauled and unified the employee rewards system, focusing on leadership excellence, productivity, quality, and innovation.",
+              "keywords": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Yes Bank",
+      "description": "Paytm is India's largest mobile commerce platform.",
+      "team": [
+        {
+          "name": "Human Capital Management",
+          "description": "Helped steer HR's strategic alignment with organizational priorities across various businesses, achieving rapid career progression from Associate to AVP in 5 years while partnering in the growth and support of over 2000 employees.",
+          "positions": [
+            {
+              "title": "Asst. Vice President",
+              "active": false,
+              "duration": "April 2006–December 2011",
+              "location": "Gurgaon, National Capital Region, India"
+            }
+          ],
+          "responsibilities": [
+            {
+              "description": "Navigated HR during a period of rapid organizational growth through leading pivotal initiatives in compensation benchmarking, organizational design, culture, and change management, establishing a position as a strategic business partner.",
+              "keywords": []
+            },
+            {
+              "description": "Supported the bank's expansion with strategic workforce planning, hiring over 500 employees in 8 months. Implemented competency assessments and employer branding strategies, and spearheaded campus hiring initiatives, achieving an 8% reduction in cost per hire.",
+              "keywords": []
+            },
+            {
+              "description": "Overhauled the performance management system by implementing the Balanced Scorecard and the 9-box model to evaluate leadership potential, enhancing succession planning.",
+              "keywords": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Fidelity",
+      "description": "Paytm is India's largest mobile commerce platform.",
+      "team": [
+        {
+          "name": "Recruitment",
+          "positions": [
+            {
+              "title": "Specialist",
+              "active": false,
+              "duration": "July 2005–April 2006",
+              "location": "Gurgaon, National Capital Region, India"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
