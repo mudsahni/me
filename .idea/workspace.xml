@@ -54,17 +54,12 @@
       <workItem from="1709056014218" duration="8336000" />
       <workItem from="1709641737110" duration="1104000" />
       <workItem from="1711013918372" duration="12350000" />
-      <workItem from="1711132157089" duration="51834000" />
+      <workItem from="1711132157089" duration="52849000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/tailwind.config.js" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
