@@ -19,7 +19,7 @@ export const Team: React.FC<TeamProps> = ({team}) => {
     return (
         <div>
             <Positions positions={team.positions} team={team.name}></Positions>
-            {team.description && <p className="py-5 text-base italic font-normal text-neutral-600">{team.description}</p>}
+            {team.description && <p dangerouslySetInnerHTML={{__html: team.description}} className="py-5 text-base italic font-normal text-neutral-600" />}
             {team.responsibilities && <Responsibilities responsibilities={team.responsibilities}/>}
         </div>
 

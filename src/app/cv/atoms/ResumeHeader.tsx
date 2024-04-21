@@ -31,13 +31,13 @@ const ContactInfo: React.FC<ContactInfoProps> = ({ contact }) => {
                 <span>{contact.email}</span>
             </div>
             <div className="flex items-center space-x-2">
-                <Image src="/linkedin.svg" className="h-5 w-5 text-sky-600" title="LinkedIn Address" alt="linkedin" />
+                <Image src="linkedin.svg" height={24} width={24} className="h-5 w-5 text-sky-600" title="LinkedIn Address" alt="linkedin" />
                 <a href={`https://www.linkedin.com/in/${contact.linkedIn}`} target="_blank" className="text-blue-500 hover:underline">{`linkedin.com/in/${contact.linkedIn}`}</a>
             </div>
             {
                 contact.github &&
                 <div className="flex items-center space-x-2">
-                    <Image src="/github-mark.svg" className="h-5 w-5 text-sky-600" title="Github Address" alt="github" />
+                    <Image src="github-mark.svg" height={24} width={24} className="h-5 w-5 text-sky-600" title="Github Address" alt="github" />
                     <a href={`https://www.github.com/${contact.github}`} target="_blank"
                        className="text-blue-500 hover:underline">{`github.com/${contact.github}`}</a>
                 </div>

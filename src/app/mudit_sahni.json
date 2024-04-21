@@ -12,13 +12,13 @@
   },
   "summary": {
     "title": "Summary",
-    "content": "<p>I've had the opportunity to enjoy diverse roles spanning event-driven backend engineering, engineering big data pipelines, using machine learning to solve research challenges, and developing full stack customer facing products. At <b>Expedia</b>, I’ve architected data capture SDKs and pipelines managing terabytes of daily data and over 30,000 requests per second, enabling data-driven decisions across the company. I also helped develop a multi-tenant platform that expanded revenue streams by white-labeling Expedia's offerings for a broad audience.</p><br><p>At <b>Gartner</b>, my overhaul of legacy products into engaging web platforms tripled revenue and improved membership retention by 20% (across those products). My dedication to process optimization led to the implementation of advanced automations, saving hundreds of developer hours and markedly increasing operational efficiency and profitability.</p>",
+    "content": "<p>I've worked across a broad spectrum of software engineering roles <b>over >10 years</b>, including high-frequency, event-driven backend systems, platform development, big data, machine learning, and full-stack web development.</p><br><p>At <b>Expedia</b>, I'm currently engaged in designing and implementing data capture SDKs and pipelines—managing terabytes of data and handling over 30,000 requests per second—to bolster the company's data-driven products and analytics. I significantly contributed to launching a multi-tenant platform that introduced a new, flourishing revenue stream (currently generating a revenue of > $10 million per year) by offering white-labeled web products.</p><br><p>At <b>Gartner</b>, I led the modernization of legacy products to contemporary web platforms which led to a threefold increase in revenue across those products and improved membership retention across research domains. I've driven process improvement and automation at both organizations and contributed to saving hundreds of developer hours weekly, leading to substantial cost savings.</p><br><p>I have a love for science, particularly physics and computer science, and it drives me to constantly expand my knowledge and skill set. And then, applying what I've learned to tackle complex and intriguing challenges is a reward in itself.</p>",
     "keywords": [
       "Event Driven Architecture",
       "Big Data",
       "Microservices",
       "Backend Engineering",
-      "Distributed Compute",
+      "Distributed Systems",
       "Data Engineering",
       "Machine Learning",
       "Deep Learning",
@@ -130,6 +130,7 @@
     "Data": [
       "SQL",
       "NoSQL",
+      "Redis",
       "Apache Spark",
       "Apache Airflow",
       "Apache Flink",
@@ -187,26 +188,26 @@
           ],
           "responsibilities": [
             {
-              "description": "Leading the creation of a multi-tenant Apache Flink-based data pipeline, designed to process and stitch over 30,000 streaming events per second in near real-time, based on configurations from data producers.",
-              "keywords": ["Apache Flink", "Apache Kafka", "Data Pipeline", "Real-time Processing", "Kotlin", "Kubernetes"]
+              "description": "Leading the creation of a multi-tenant Apache Flink-based data pipeline, designed to process and stitch <b>over 30,000 streaming events per second in near real-time</b>, based on configurations from data producers.",
+              "keywords": ["Apache Flink", "Apache Kafka","Data Pipeline", "Real-time Processing", "Kotlin", "Kubernetes"]
             },
             {
               "description": "Designed a data visualization tool that ingests real-time event streams from multiple sources, filtering them per UI input custom configurations to provide immediate access to live data insights.",
               "keywords": ["Apache Kafka", "Kotlin", "Typescript", "React", "Coroutines"]
             },
             {
-              "description": "Designed a schema integration pipeline that automates validation and dissemination of schema changes across microservices in the data capture platform, streamlining updates and saving 30 developer hours weekly.",
+              "description": "Designed a schema integration pipeline that automates validation and dissemination of schema changes across microservices in the data capture platform, streamlining updates and <b>saving 30 developer hours weekly</b>.",
                 "keywords": ["Python", "Github Actions", "Spinnaker", "Jenkins", "Datadog"]
             },
             {
-              "description": "Developing a platform that evaluates and scores data producers, enhancing data quality by reducing schema-based errors by ~22% and cutting resolution times by ~10%. This improvement streamlined the alignment between consumers and producers, boosting service efficiency and customer satisfaction.",
+              "description": "Developing a platform that evaluates and scores data producers, enhancing data quality by <b>reducing schema-based errors by ~22% and cutting resolution times by ~10%</b>. This improvement streamlined the alignment between consumers and producers, boosting service efficiency and customer satisfaction.",
               "keywords": ["Kotlin", "Apache Spark", "Apache Kafka", "Datadog", "Typescript", "React", "Kubernetes"]
             }
           ]
         },
         {
           "name": "Platform Solutions",
-          "description": "I helped architect the control plane for a scalable, multi-tenant platform, designing and engineering customer onboarding, product selection, and automated billing, tailored for diverse internal and external customer needs.",
+          "description": "I helped architect the control plane for a scalable, multi-tenant platform, designing and engineering customer onboarding, product selection, and automated billing, tailored for diverse internal and external customer needs. <b>This introduced a new revenue stream for Expedia (> $10 million per year)</b>.",
           "positions": [
             {
               "title": "Software Development Engineer III",
@@ -233,13 +234,13 @@
           ]
         },
         {
-          "name": "Experimentation Platform",
+          "name": "Data Analytics and Experimentation",
           "description": "Improved data insights and employee benefits at Expedia Group by creating a high-refresh rate A/B testing analysis platform, streamlining data integration with Adobe Experience Platform, and facilitating travel discounts through an internal website.",
           "positions": [
             {
-              "title": "Data Engineer III",
+              "title": "Associate SDE",
               "active": false,
-              "duration": "Mar 2021–Aug 2021"
+              "duration": "Oct 2017–Mar 2019"
             },
             {
               "title": "SDE I",
@@ -247,11 +248,10 @@
               "duration": "Mar 2019–Mar 2021"
             },
             {
-              "title": "Associate SDE",
+              "title": "Data Engineer III",
               "active": false,
-              "duration": "Oct 2017–Mar 2019"
+              "duration": "Mar 2021–Aug 2021"
             }
-
           ],
           "responsibilities": [
             {
@@ -259,7 +259,7 @@
               "keywords": ["$award$ Expedia 'My Hero' Award", "Scala", "Apache Spark", "Data Lake", "Adobe Experience Platform", "Kubernetes"]
             },
             {
-              "description": "Developed a standardized reporting and visualization platform for over 40,000 A/B tests organization-wide, enhancing the A/B test data refresh rate by more than 40 times—from once daily to over 40 refreshes a day.",
+              "description": "Developed a standardized reporting and visualization platform for <b>over 40,000 organization-wide A/B tests</b>, enhancing the A/B test data refresh rate by more than 40 times—from once daily to </b>over 40 refreshes a day</b>.",
               "keywords": ["Python", "Postgres", "Typescript", "React"]
             },
             {
@@ -287,7 +287,7 @@
           ],
           "responsibilities": [
             {
-              "description": "Tripled revenue of survey based research products across various research domains by transforming client-facing survey analysis and reporting from basic Excel dashboards to advanced, flexible web-based platforms with enhanced analytical capabilities. Additionally, accelerated survey creation by research teams fivefold through the development of a declarative schema-based survey generation UI.",
+              "description": "<b>Tripled revenue</b> of survey based research products across various research domains by transforming client-facing survey analysis and reporting from basic Excel dashboards to advanced, flexible web-based platforms with enhanced analytical capabilities. Additionally, accelerated survey creation by research teams fivefold through the development of a declarative schema-based survey generation UI.",
               "keywords": ["$award$ Gartner Innovation of the Year (2017)","Python", "Flask", "Javascript", "React", "R", "Shiny", "MongoDb"]
             },
             {
@@ -318,7 +318,7 @@
           ],
           "responsibilities": [
             {
-              "description": "Cut manual work hours by approximately 500 per month through automations in web development, data standardization, and digital publishing, streamlining the creation and release of digital products.",
+              "description": "Cut manual work hours by <b>approximately 500 hours per month</b> through automations in web development, data standardization, and digital publishing, streamlining the creation and release of digital products.",
               "keywords": ["Python"]
             },
             {

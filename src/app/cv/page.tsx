@@ -53,7 +53,7 @@ interface Resume {
     }[]
 }
 
-export default async function CV() {
+export default async function cv() {
     const file = await fs.readFile(process.cwd() + '/src/app/mudit_sahni.json', 'utf8');
     const content: Resume = JSON.parse(file);
 
@@ -75,10 +75,10 @@ export default async function CV() {
                         <Details
                             rhs={
                             <div>
-                                <Miscellaneous misc={content.misc} />
                                 <Learnings
                                     learnings={content.learnings}
                                 />
+                                <Miscellaneous misc={content.misc} />
                             </div>
                             }
                             lhs={<Experience experience={content.experience}/>}

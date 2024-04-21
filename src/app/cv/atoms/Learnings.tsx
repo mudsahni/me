@@ -91,7 +91,7 @@ export const MiscellaneousBox: React.FC<MiscellaneousBoxProps> = ({title, values
         <div className="mb-6">
             <SectionHeader>{title}</SectionHeader>
             <div className="px-6">
-                <div className="h-auto mb-4 h-10 w-100 bg-neutral-100 rounded-xl mt-6 px-6 pt-6 flex flex-wrap gap-2">
+                <div className="h-auto mb-4 h-10 w-100 bg-neutral-100 rounded-md mt-6 px-6 pt-6 flex flex-wrap gap-2">
                     {
                         values.map((value, index) => (
                             <div className="text-sm mb-6 bg-white px-4 rounded-md py-1" key={index}>

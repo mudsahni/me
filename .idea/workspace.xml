@@ -14,6 +14,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2cxYBSos7nkmGE0mBTCjzKK9eW9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +38,7 @@
       <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/cv" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src/app" />
     </key>
@@ -54,7 +56,7 @@
       <workItem from="1709056014218" duration="8336000" />
       <workItem from="1709641737110" duration="1104000" />
       <workItem from="1711013918372" duration="12350000" />
-      <workItem from="1711132157089" duration="52849000" />
+      <workItem from="1711132157089" duration="72859000" />
     </task>
     <servers />
   </component>
